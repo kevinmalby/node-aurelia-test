@@ -14,7 +14,7 @@ main_dir
 |--data  
 |--node_modules  
 |--public  
-&nbsp;&nbsp;&nbsp;|--To be filled in later with angular things  
+&nbsp;&nbsp;&nbsp;|--To be filled in later with correct Aurelia things  
 .gitignore  
 package.json  
 server.js
